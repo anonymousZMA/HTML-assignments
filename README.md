@@ -1,6 +1,4 @@
-# HTML-assignments
-
-## HTML Links, Images, Lists, and Text Assignments
+# HTML Links, Images, Lists, and Text Assignments
 This project includes several assignments that cover different aspects of HTML, including links, images, lists, and text.
 
 ## Links
